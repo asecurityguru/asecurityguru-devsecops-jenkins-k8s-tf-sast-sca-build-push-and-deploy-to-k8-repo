@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: dmskbuggy
-        image: 749500586332.dkr.ecr.us-west-2.amazonaws.com/dmsk
+        image: 906568919637.dkr.ecr.us-west-2.amazonaws.com/dmsk
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
